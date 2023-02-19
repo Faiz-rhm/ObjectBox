@@ -17,12 +17,13 @@ flutter run
 
 ## Screen Shots
 
-| Welcome Screen  | Login Screen |
+| Add Notes  | Notes List |
 | ------------- | ------------- |
-| ![screenshot-1676802239432](https://user-images.githubusercontent.com/14290499/219942673-cf91ff78-6525-4d7f-a2e6-0a9fb5786a0e.png)
-  |  ![screenshot-1676802518585](https://user-images.githubusercontent.com/14290499/219942678-99e358db-4f5a-43bd-9058-d9965245ce7b.png)
- |
-| ![screenshot-1676802536840](https://user-images.githubusercontent.com/14290499/219942685-67375487-0416-432b-868d-d1e5417944e9.png)
+|  ![screenshot-1676802239432](https://user-images.githubusercontent.com/14290499/219942724-b7fbb123-ecbf-4441-ac7f-132236d63baa.png)
+ | ![screenshot-1676802518585](https://user-images.githubusercontent.com/14290499/219942732-71737ffe-8252-4676-9c75-e9a8d2997018.png)
+  |
+| Delete Note| Search Screen |
+| ![screenshot-1676802536840](https://user-images.githubusercontent.com/14290499/219942776-f06508d3-dfc6-40b0-b58a-04cea5f7c974.png)
  |
 | | 
 
