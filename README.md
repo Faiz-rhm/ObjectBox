@@ -1,5 +1,7 @@
 # ObjectBox
 
+This project is built to show how to use [ObjectBox](https://pub.dev/packages/objectbox).
+
 ObjectBox is a quite popular NoSQL database with many features. It has a high performance and has out-of-the-box synchronization as well as offline first support, so users have an “always-on” feeling without a constant internet connection. There are many more advantages, for example, ObjectBox reduces costs and supports literally every environment.
 
 ObjectBox supports numerous frameworks, and one of them is Flutter. That’s why you will learn how to use ObjectBox in Flutter in this article. Great, let’s get started!
