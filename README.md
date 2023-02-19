@@ -17,17 +17,9 @@ flutter run
 
 ## Screen Shots
 
-| Add Notes  | Notes List |
-| ------------- | ------------- |
-|  ![screenshot-1676802239432](https://user-images.githubusercontent.com/14290499/219942724-b7fbb123-ecbf-4441-ac7f-132236d63baa.png)
- | ![screenshot-1676802518585](https://user-images.githubusercontent.com/14290499/219942732-71737ffe-8252-4676-9c75-e9a8d2997018.png)
-  |
-| Delete Note| Search Screen |
-| ![screenshot-1676802536840](https://user-images.githubusercontent.com/14290499/219942776-f06508d3-dfc6-40b0-b58a-04cea5f7c974.png)
- |
-| | 
-
-
+![screenshot-1676802239432](https://user-images.githubusercontent.com/14290499/219942724-b7fbb123-ecbf-4441-ac7f-132236d63baa.png)
+![screenshot-1676802518585](https://user-images.githubusercontent.com/14290499/219942732-71737ffe-8252-4676-9c75-e9a8d2997018.png)
+![screenshot-1676802536840](https://user-images.githubusercontent.com/14290499/219942776-f06508d3-dfc6-40b0-b58a-04cea5f7c974.png)
 
 
 ## Getting Started
