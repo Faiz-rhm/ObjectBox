@@ -1,4 +1,4 @@
-# ObjectBox
+# NoSQL Database Storage | Flutter ObjectBox
 
 This project is built to show how to use [ObjectBox](https://pub.dev/packages/objectbox).
 
