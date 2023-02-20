@@ -53,13 +53,28 @@ class _NoteScreenState extends State<NoteScreen> {
 
   void _addNote() {
     if(titleEditingController.text.isEmpty && commentEditingController.text.isEmpty) return;
-    objectBox.addNotes(titleEditingController.text, commentEditingController.text);
+
+    final data = NoteModel(
+      title: titleEditingController.text,
+      comment: commentEditingController.text,
+      date: DateTime.now()
+    );
+
+    objectBox.addNotes(data);
     Navigator.pop(context);
   }
 
-  void _editNote(item) {
+  Future<void> _editNote(NoteModel item) async {
     if(titleEditingController.text.isEmpty && commentEditingController.text.isEmpty) return;
-    objectBox.editNotes(item);
+
+    final data = NoteModel(
+      id: item.id,
+      title: titleEditingController.text,
+      comment: commentEditingController.text,
+      date: DateTime.now()
+    );
+
+    objectBox.addNotes(data);
     Navigator.pop(context);
   }
 

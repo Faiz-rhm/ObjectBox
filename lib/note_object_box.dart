@@ -47,17 +47,7 @@ class NoteObjectBox{
     noteBox.remove(id);
   }
 
-  Future<void> addNotes(String text, String comment) async {
-    final data = NoteModel(
-      title: text,
-      comment: comment,
-      date: DateTime.now()
-    );
-
+  Future<void> addNotes(NoteModel data) async {
     noteBox.put(data);
-  }
-
-  Future<void> editNotes(NoteModel item) async {
-
   }
 }
